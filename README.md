@@ -39,7 +39,7 @@ Knaveshu.createDay();
 ```
 <img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/919085098660425728?hideDiscrim=true)](https://discord.com/users/919085098660425728)
+[![Discord Presence](https://lanyard.cnrad.dev/api/92308959049846784?animated=true&bg=2C2F33&hideDiscrim=true)](https://discord.com/users/92308959049846784)
 
 ## 🔧 Languages
 - 💻 &nbsp;
